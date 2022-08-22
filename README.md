@@ -6,7 +6,7 @@ Submitted by: Andrew Liu
 
 Kotlin-Hello-World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 10 hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
@@ -18,13 +18,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Implemented card view with intro text.
+* [X] Changed colors to fit Material You design features
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src="https://media.giphy.com/media/jxRHdUkNWV4TPM1NPi/giphy.gif" title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="https://media.giphy.com/media/BvbRCUaC6iqhlVoWvK/giphy.gif" title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
