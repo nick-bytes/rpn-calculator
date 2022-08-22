@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/2yMQb9r' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kotlin Hello World](https://imgur.com/a/2yMQb9r)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
