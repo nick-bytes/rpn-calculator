@@ -2,5 +2,6 @@
     <string name="app_name">HelloWorld</string>
     <string name="andrew_intro">Hello, my name is Andrew and I am looking to delve into Android development!</string>
     <string name="reply">Hello to you too!</string>
+    <string name="buttonText">Say Hello!</string>
 
 </resources>
