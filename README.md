@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="(https://media.giphy.com/media/jxRHdUkNWV4TPM1NPi/giphy.gif)" title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="https://media.giphy.com/media/jxRHdUkNWV4TPM1NPi/giphy.gif" title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
