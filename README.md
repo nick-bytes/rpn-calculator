@@ -2,7 +2,13 @@
 
 Reverse Polish Notation in Kotlin. Performs arithmetic operations.
 
-    Copyright [yyyy] [name of copyright owner]
+# instructions
+
+Download and install Android studio
+
+Run RPNCalculator.kt
+
+    Copyright [2024] [Nicholas Emmanuel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
