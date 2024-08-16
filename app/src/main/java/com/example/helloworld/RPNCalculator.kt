@@ -1,6 +1,7 @@
 package com.example.helloworld
 
-import java.util.*;
+import java.util.Scanner
+import java.util.Stack
 
 val stack = Stack<Double>()
 
@@ -42,7 +43,7 @@ fun evaluateRPN(tokens: List<String>): String {
                     return ("Error: ${e.message}")
                 }
             }
-            token !in arrayOf("+", "-", "*", "/") -> {
+            else -> {
                 stack.clear()
                 return ("Error: Invalid input ")
             }
