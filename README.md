@@ -1,39 +1,6 @@
-# Kotlin-Hello-World
-Hello World in Kotlin. Displays basic event listeners and views
-# Android Prework - Kotlin-Hello-World
+# rpn-calculator
 
-Submitted by: Andrew Liu
-
-Kotlin-Hello-World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
-
-Time spent: 12 hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-* [X] Image and introductory message displayed on screen
-* [X] Button displayed on screen
-* [X] Toast with message appears when button is pressed 
-
-The following **optional** features are implemented:
-
-* [X] Implemented card view with intro text.
-* [X] Changed colors to fit Material You design features
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<img src="https://media.giphy.com/media/BvbRCUaC6iqhlVoWvK/giphy.gif" title='Video Walkthrough' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-
-## Notes
-
-Debugging the app was particularly difficult, since the emulator is very slow running in Android Studio. There were also issues with Git, but a search through Stack Overflow resolved that problem. Other than that, this Hello World has basic implementations. 
-
-## License
+Reverse Polish Notation in Kotlin. Performs arithmetic operations.
 
     Copyright [yyyy] [name of copyright owner]
 

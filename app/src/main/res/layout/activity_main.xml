@@ -24,7 +24,7 @@
             android:background="@drawable/layer_card_background"
             android:gravity="center"
             android:padding="15dp"
-            android:text="@string/andrew_intro"
+            android:text="@string/intro"
             android:textColor="#00838F" />
     </LinearLayout>
 
